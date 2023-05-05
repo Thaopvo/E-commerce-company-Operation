@@ -56,4 +56,7 @@ customer_city: thành phố nơi khách hàng sống
 customer_state: bang nơi khách hàng sống
 ## Data Schema
 ![image](https://user-images.githubusercontent.com/95675053/236387480-583f1875-043f-415e-a2f0-e559a597904d.png)
+Bộ dữ liệu được mô hình hoá theo kiểu mô hình snowflake schema 
+Với bảng Fact là bảng gồm các trường liên quan đến đơn hàng, liên kết theo mối quan hệ trực tiếp với các bảng dim, các bảng dim liên kết trực tiếp với các bảng sub_dim. 
+Trích xuất, xử lý bộ dữ liệu theo model bằng SQL
 

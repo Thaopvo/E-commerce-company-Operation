@@ -54,3 +54,6 @@ customer_unique_id: mã unique ID của khách hàng trong hệ thống quản l
 customer_zip_code_prefix: zip code của khách hàng
 customer_city: thành phố nơi khách hàng sống
 customer_state: bang nơi khách hàng sống
+## Data Schema
+![image](https://user-images.githubusercontent.com/95675053/236387480-583f1875-043f-415e-a2f0-e559a597904d.png)
+
